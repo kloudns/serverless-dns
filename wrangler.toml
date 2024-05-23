@@ -62,6 +62,7 @@ minify = true
 routes = [
   "one.rethinkdns.com/*",
   "one.bravedns.com/*",
+  "one.kloudns.workers.dev/*",
 ]
 analytics_engine_datasets = [
     { binding = "METRICS", dataset = "ONE_M0" },
